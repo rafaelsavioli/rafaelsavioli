@@ -70,6 +70,17 @@ Componentização · Consumo e integração de APIs
 Outros 11 projetos públicos neste perfil — os três acima são os que têm caso
 escrito.
 
+
+---
+
+## Atividade
+
+![Cards de estatística do GitHub](https://github-readme-stats.shion.dev/api?username=rafaelsavioli&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![Streak de contribuições](https://streak-stats.demolab.com/?user=rafaelsavioli&theme=dark&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.shion.dev/api/top-langs/?username=rafaelsavioli&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ## Contato
@@ -78,3 +89,5 @@ escrito.
 **LinkedIn** · [linkedin.com/in/rafael-savioli-a51886289](https://www.linkedin.com/in/rafael-savioli-a51886289/)
 **Portfólio** · [rafaelsavioli.github.io/Portifolio](https://rafaelsavioli.github.io/Portifolio/)
 **HazeFlow** · [hazeflow.com.br](https://www.hazeflow.com.br)
+
+[![visitas](https://komarev.com/ghpvc/?username=rafaelsavioli&icon=2&color=6)](https://visitcount.itsvg.in)
