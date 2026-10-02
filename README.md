@@ -1,8 +1,6 @@
 # Rafael Savioli
 
-Desenvolvedor front-end em Jundiaí-SP. Fundador da
-[HazeFlow](https://www.hazeflow.com.br), onde construo sistemas de gestão que
-rodam em produção para clientes reais.
+Estudante do Ensino Médio Técnico em Informática e desenvolvedor front-end em formação, em Jundiaí-SP. Também sou fundador da [HazeFlow](https://www.hazeflow.com.br) e desenvolvo projetos web com foco em interfaces, integração e acessibilidade.
 
 [![portfólio](https://img.shields.io/badge/portf%C3%B3lio-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white)](https://rafaelsavioli.github.io/Portifolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-1D4ED8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-savioli-a51886289/)
@@ -26,13 +24,9 @@ CodeQL e licença MIT.
 
 ### HazeWeb · sistema de gestão em produção
 
-Sistema que desenvolvo na HazeFlow, rodando para clientes reais: **23 telas e 26
-APIs**. Front-end em HTML, CSS e JavaScript sem framework; back em PHP e MySQL com
-autenticação e controle de sessão.
+Sistema de gestão que desenvolvo na HazeFlow e que está em produção: **23 telas e 26 arquivos PHP na pasta `api/`**. Front-end em HTML, CSS e JavaScript sem framework; back-end em PHP e MySQL com autenticação e controle de sessão.
 
-Na auditoria encontrei um vazamento real: um usuário enxergava os leads de outro.
-Corrigi com filtros de dono em todas as consultas e verificação de linhas afetadas
-no helper de banco. Esse tipo de bug só aparece com o sistema em uso de verdade.
+Em uma revisão de segurança, auditei o isolamento de dados entre contas e reforcei as consultas com filtros de proprietário e validação de linhas alteradas no banco.
 
 `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL`
 
@@ -46,17 +40,16 @@ pessoal.
 `JavaScript` · `Canvas API` · `Colorimetria`
 
 [Aplicação no ar](https://rafaelsavioli.github.io/Visual_Analyser/) ·
-[Código](https://github.com/rafaelsavioli/Visual_Analiser)
+[Código](https://github.com/rafaelsavioli/Visual_Analyser)
 
 ---
 
 ## Como trabalho
 
-- Tiro layout do Figma e entrego interface que aguenta **320px a ultrawide**.
-- Audito e meço antes de dizer que está pronto — foi assim que o vazamento acima
-  apareceu.
-- Quando o projeto pede, desço até o banco em vez de entregar tela morta.
-- Respeito quem usa teclado, quem usa leitor de tela e quem está no 3G.
+- Pratico a transformação de layouts do Figma em interfaces responsivas, de 320px a ultrawide.
+- Audito e reviso o isolamento de dados antes de considerar um sistema pronto.
+- Quando o projeto pede, também implemento integrações entre interface, APIs e banco de dados.
+- Considero navegação por teclado, leitores de tela e redes móveis no desenvolvimento.
 
 ## Stack
 
@@ -64,11 +57,10 @@ pessoal.
 
 **Praticando** — React · Tailwind CSS · Node.js · TypeScript · Figma
 
-**Práticas de qualidade** — Acessibilidade (WCAG AA) · Layout responsivo ·
+**Práticas de qualidade** — Acessibilidade web · Layout responsivo ·
 Componentização · Consumo e integração de APIs
 
-Outros 11 projetos públicos neste perfil — os três acima são os que têm caso
-escrito.
+Os 14 repositórios públicos deste perfil incluem os três cases acima e outros projetos, estudos e ferramentas.
 
 
 ---
